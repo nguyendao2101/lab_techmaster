@@ -1,6 +1,8 @@
 # lab1
 Để sử dụng ở trong file main.dart mở dòng comment "home: Lab01()", sau đó ở thanh "Menu AppBar", chọn "Run" , chọn "Start Debugging" là chạy được dự án.
 
+Tương tự cho các bài lab khác.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
