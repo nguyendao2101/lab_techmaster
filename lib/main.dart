@@ -4,6 +4,7 @@ import 'package:lab1/lab1.dart';
 import 'package:lab1/lab2.dart';
 import 'package:lab1/lab3.dart';
 import 'package:lab1/lab4.dart';
+import 'package:lab1/lab5.dart';
 
 void main() {
   runApp(MyApp());
@@ -19,7 +20,8 @@ class MyApp extends StatelessWidget {
       // home: Lab01(),
       // home: Lab2(),
       // home: Lab3(),
-      home: Lab4(),
+      // home: Lab4(),
+      home: Lab5(),
     );
   }
 }
